@@ -827,7 +827,7 @@ pre.Code code {
 }
 
 .SemanticString__Fragment--Link:hover, .SemanticString__Fragment--Resource>a:hover {
-  border-bottom: 2px solid hsl(45, 8%, 55%);
+  border-bottom: 2px solid hsl(351, 60%, 83%);
 }
 
 .SemanticString__Fragment--Code {
