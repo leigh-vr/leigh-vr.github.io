@@ -9,7 +9,7 @@
 }
 
 :root {
-  --color-text-default: rgb(55, 53, 47);
+  --color-text-default: rgb(184, 193, 236);
   --color-text-default-light: rgba(55, 53, 47, 0.6);
   --color-text-gray: rgb(155, 154, 151);
   --color-text-brown: rgb(100, 71, 58);
@@ -20,7 +20,7 @@
   --color-text-purple: rgb(105, 64, 165);
   --color-text-pink: rgb(173, 26, 114);
   --color-text-red: rgb(224, 62, 62);
-  --color-bg-default: rgb(255, 255, 255);
+  --color-bg-default: rgb(35, 41, 70);
   --color-bg-gray: rgb(235, 236, 237);
   --color-bg-gray-light: rgba(235, 236, 237, 0.3);
   --color-bg-brown: rgb(233, 229, 227);
