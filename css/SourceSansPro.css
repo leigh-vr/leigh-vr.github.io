@@ -52,3 +52,17 @@
        url('../fonts/source-sans-pro-v13-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/source-sans-pro-v13-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+/* Decima Mono Light */
+@font-face {
+  font-family: 'Decima Mono';
+  font-style: normal;
+  src: local('Decima Mono')
+       url('../fonts/decimamono-light-webfont.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+/* Decima Mono Bold */
+@font-face {
+  font-family: 'Decima Mono';
+  font-weight: bold;
+  src: local('Decima Mono Bold')
+       url('../fonts/decima-bold-webfont.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

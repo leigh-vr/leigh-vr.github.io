@@ -206,7 +206,6 @@
   text-decoration: none;
 }
 
-
 .Article__Title {
   margin: 0;
   padding-bottom: 0.5rem;
@@ -221,7 +220,7 @@
 }
 
 .Article__Title>a:hover {
-  border-bottom: 2px solid hsl(351, 60%, 83%);
+  border-bottom: 2px solid hsl(45, 8%, 55%);
 }
 
 .Article__Desc {
